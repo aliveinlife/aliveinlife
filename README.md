@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**aliveinlife/aliveinlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aliveinlife, future python backend Ai tech. 
 
-Here are some ideas to get you started:
+Right now, just trying to learn base python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't have main tech in that time
+
+I'm wanna to be a proggramer so please help me if you can.
+
+Fun facts:
+- I love galaxy stuff
+- Love coffee
+- I'm just 16
+- Hobbies: swim, osu!, reading some stuff 
